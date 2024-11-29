@@ -1,0 +1,13 @@
+/* (.) is used for class */
+.nishant{
+	color: blue;
+	}
+/* (#) is used for id*/
+#nishant{
+	color: rgb(221, 255, 0);
+	}
+/**/
+#redbg{
+	border: 2px solid rgb(0, 208, 255);
+	border-radius: 20px;
+	}

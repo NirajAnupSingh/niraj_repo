@@ -10,10 +10,11 @@ int main()
     scanf("%d",&c);
     if(180==a+b+c)
     {
-        printf("The angles can form a valid triangle.")
+        printf("The angles can form a valid triangle.");
     }
     else
     {
         printf("The angles cannot form a valid triangle.");
     }
+    return 0;
 }

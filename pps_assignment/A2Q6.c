@@ -40,4 +40,5 @@ int main()
     printf("Unit Consumed:%.2f\n",unit);
     printf("Amount Charges:%.2f\n",charge);
     printf("Surcharge Amount:%.2f\n",surcharge);
+    return 0;
 }

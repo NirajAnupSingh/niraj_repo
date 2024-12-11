@@ -27,4 +27,5 @@ int main()
     {
         printf("the angles cannot form a valid triangle.");
     }
+    return 0;
 }

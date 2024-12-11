@@ -25,5 +25,5 @@ int main()
     {
             printf("\nThe character is a special symbol");
     }
-return 0;
+    return 0;
 }
